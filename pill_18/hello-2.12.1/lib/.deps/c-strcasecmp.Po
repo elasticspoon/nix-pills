@@ -1,0 +1,52 @@
+lib/c-strcasecmp.o: lib/c-strcasecmp.c \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdc-predef.h \
+ config.h lib/c-strcase.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stddef.h \
+ lib/limits.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/limits.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/syslimits.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/limits.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/libc-header-start.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features-time64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wordsize.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/timesize.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/cdefs.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/long-double.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs-64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/posix1_lim.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/local_lim.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/linux/limits.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/pthread_stack_min-dynamic.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/posix2_lim.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/xopen_lim.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/uio_lim.h \
+ lib/c-ctype.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stdbool.h
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdc-predef.h:
+config.h:
+lib/c-strcase.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stddef.h:
+lib/limits.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/limits.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include-fixed/syslimits.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/limits.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/libc-header-start.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features-time64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wordsize.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/timesize.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/cdefs.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/long-double.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs-64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/posix1_lim.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/local_lim.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/linux/limits.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/pthread_stack_min-dynamic.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/posix2_lim.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/xopen_lim.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/uio_lim.h:
+lib/c-ctype.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stdbool.h:

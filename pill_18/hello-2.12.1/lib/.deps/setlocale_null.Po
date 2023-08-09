@@ -1,0 +1,138 @@
+lib/setlocale_null.o: lib/setlocale_null.c \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdc-predef.h \
+ config.h lib/setlocale_null.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stddef.h \
+ lib/arg-nonnull.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/errno.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features-time64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wordsize.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/timesize.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/cdefs.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/long-double.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs-64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/errno.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/linux/errno.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/asm/errno.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/asm-generic/errno.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/asm-generic/errno-base.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/error_t.h \
+ lib/locale.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/locale.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/locale.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/locale_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__locale_t.h \
+ lib/stdlib.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdlib.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/libc-header-start.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/waitflags.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/waitstatus.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn-common.h \
+ lib/sys/types.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/types.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/typesizes.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/time64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/clock_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/clockid_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/time_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/timer_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdint-intn.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/endian.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endian.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endianness.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/byteswap.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/uintn-identity.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/select.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/select.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/sigset_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__sigset_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/struct_timeval.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/struct_timespec.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/select2.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/pthreadtypes.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/thread-shared-types.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/pthreadtypes-arch.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/atomic_wide_counter.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/struct_mutex.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/struct_rwlock.h \
+ lib/alloca.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdlib-bsearch.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdlib-float.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdlib.h \
+ lib/string.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/string.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/strings.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/strings_fortified.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/string_fortified.h
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdc-predef.h:
+config.h:
+lib/setlocale_null.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stddef.h:
+lib/arg-nonnull.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/errno.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features-time64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wordsize.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/timesize.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/cdefs.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/long-double.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs-64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/errno.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/linux/errno.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/asm/errno.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/asm-generic/errno.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/asm-generic/errno-base.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/error_t.h:
+lib/locale.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/locale.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/locale.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/locale_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__locale_t.h:
+lib/stdlib.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdlib.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/libc-header-start.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/waitflags.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/waitstatus.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn-common.h:
+lib/sys/types.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/types.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/typesizes.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/time64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/clock_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/clockid_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/time_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/timer_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdint-intn.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/endian.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endian.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endianness.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/byteswap.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/uintn-identity.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/select.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/select.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/sigset_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__sigset_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/struct_timeval.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/struct_timespec.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/select2.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/pthreadtypes.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/thread-shared-types.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/pthreadtypes-arch.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/atomic_wide_counter.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/struct_mutex.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/struct_rwlock.h:
+lib/alloca.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdlib-bsearch.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdlib-float.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/stdlib.h:
+lib/string.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/string.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/strings.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/strings_fortified.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/string_fortified.h:

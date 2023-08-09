@@ -1,0 +1,1 @@
+Derive([("out","/nix/store/xf00lh1p3mwn16a7gsyr90p0ab6vx222-foo","","")],[],["/nix/store/n2mhx9nv3zxvq6dq8iigqfh879yyaf8y-afile"],"x86_64-linux","/nix/store/n2mhx9nv3zxvq6dq8iigqfh879yyaf8y-afile",[],[("builder","/nix/store/n2mhx9nv3zxvq6dq8iigqfh879yyaf8y-afile"),("name","foo"),("out","/nix/store/xf00lh1p3mwn16a7gsyr90p0ab6vx222-foo"),("system","x86_64-linux")])

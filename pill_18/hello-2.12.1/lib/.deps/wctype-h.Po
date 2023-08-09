@@ -1,0 +1,71 @@
+lib/wctype-h.o: lib/wctype-h.c \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdc-predef.h \
+ config.h lib/wctype.h lib/wchar.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features-time64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wordsize.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/timesize.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/cdefs.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/long-double.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs-64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/wchar.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/libc-header-start.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn-common.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stddef.h \
+ /nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stdarg.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wchar.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/wint_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/mbstate_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__mbstate_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__FILE.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/FILE.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/locale_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__locale_t.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wchar2-decl.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wchar2.h \
+ lib/wctype.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/wctype.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/typesizes.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/time64.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wctype-wchar.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endian.h \
+ /nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endianness.h
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/stdc-predef.h:
+config.h:
+lib/wctype.h:
+lib/wchar.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/features-time64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wordsize.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/timesize.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/sys/cdefs.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/long-double.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/gnu/stubs-64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/wchar.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/libc-header-start.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/floatn-common.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stddef.h:
+/nix/store/aafdki1nf49k5vxq6gx2yabiybk2bjmw-gcc-12.2.0/lib/gcc/x86_64-unknown-linux-gnu/12.2.0/include/stdarg.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wchar.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/wint_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/mbstate_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__mbstate_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__FILE.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/FILE.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/locale_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types/__locale_t.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wchar2-decl.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wchar2.h:
+lib/wctype.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/wctype.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/types.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/typesizes.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/time64.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/wctype-wchar.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endian.h:
+/nix/store/wb2dlc8kpvrn960vq7j7c8822pi43n48-glibc-2.37-8-dev/include/bits/endianness.h:
